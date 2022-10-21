@@ -10,7 +10,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",   
     "sequelize": "^5.22.3"
-  }
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
